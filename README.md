@@ -1,8 +1,5 @@
 # SweetyBread Plugin
 
-<img width="600" height="401" alt="изображение" src="https://github.com/user-attachments/assets/bf40cc82-398d-4589-af77-79b09c23a241" />
-
-
 This plugin was made **purely for fun**, inspired by a joke from a friend and the movie  
 **“Green Elephant”**.
 
@@ -23,3 +20,5 @@ That’s all it does.
 ```
 🍞Братишка, я тебе пулл-реквест принёс!
 ```
+
+<img width="600" height="401" alt="изображение" src="https://github.com/user-attachments/assets/bf40cc82-398d-4589-af77-79b09c23a241" />
