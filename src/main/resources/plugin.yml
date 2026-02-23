@@ -1,0 +1,13 @@
+name: SweetyBread
+version: 1.0.0
+main: hex.wald.Main
+api-version: "1.21"
+commands:
+  sweetybread:
+    description: SweetyBread main command
+    usage: /<command> reload
+    aliases: [sb, sweetbread]
+permissions:
+  sweetybread.reload:
+    description: Allows reloading SweetyBread config
+    default: op
