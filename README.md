@@ -1,76 +1,25 @@
-# SweetyBread 🍞
+# SweetyBread Plugin
 
-⚠️ **Warning**  
-This plugin is a joke project. Do NOT take it seriously.
+<img width="600" height="401" alt="изображение" src="https://github.com/user-attachments/assets/bf40cc82-398d-4589-af77-79b09c23a241" />
 
----
 
-## 📌 About
+This plugin was made **purely for fun**, inspired by a joke from a friend and the movie  
+**“Green Elephant”**.
 
-**SweetyBread** is a small Minecraft plugin created **purely for fun and Java practice**.
-
-The idea was inspired by the Russian cult film **“Green Elephant” (Зелёный слоник)** and was never meant to be offensive, deep, or meaningful.  
-It started as a **spontaneous joke from a friend**, and I decided to implement it just for laughs and to practice writing plugins in Java.
-
-No lore.  
-No hidden meaning.  
-Just memes and code.
+The idea came up spontaneously and was implemented **just for Java practice**.  
+This project is not meant to be serious in any way.
 
 ---
 
-## 🎯 Purpose
+## How it works
 
-- Practice **Java**
-- Practice **Spigot / Paper plugin development**
-- Experiment with **event listeners & commands**
-- Have fun and not overthink it
+When a **composter** is filled to **100%**,  
+there is a **configurable chance** that a **Sweet Bread** item will drop from it.
 
----
+The drop chance can be adjusted in the plugin configuration file.
 
-## 🚫 Disclaimer
+That’s all it does.
 
-- This plugin is **not intended for serious servers**
-- Not meant to offend anyone
-- Humor may be stupid, absurd, or questionable — **that’s the point**
-- If you’re looking for a polished or professional plugin — this is not it
-
----
-
-## ⚙️ Features
-
-- Simple event-based behavior
-- Lightweight
-- Minimal configuration
-- Reload command support
-
----
-
-## 🛠 Built With
-
-- Java
-- Paper / Spigot API
-- Maven
-- IntelliJ IDEA
-
----
-
-## 📚 Motivation
-
-> “I had a dumb idea, laughed, and coded it.”
-
-That’s literally it.
-
----
-
-## 📄 License
-
-Do whatever you want with it.  
-Use it, modify it, laugh at it, delete it.
-
----
-
-## ❤️ Final Note
-
-This project exists **only because why not**.
-
-Enjoy, Bratishka :) 🍞
+```
+🍞Братишка, я тебе пулл-реквест принёс!
+```
