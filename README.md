@@ -17,6 +17,17 @@ The drop chance can be adjusted in the plugin configuration file.
 
 That’s all it does.
 
+
+## Requirements
+
+- **Minecraft server**: Paper / Spigot  
+  - Tested on **Minecraft 1.21.x**
+- **Java**: Java 17+ (recommended for modern Paper versions)
+- **Build system**: Maven
+
+---
+
+
 ```
 🍞Братишка, я тебе пулл-реквест принёс!
 ```
